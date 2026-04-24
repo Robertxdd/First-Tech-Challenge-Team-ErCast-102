@@ -1,3 +1,11 @@
-# First-Tech-Challenge-Team-ErCast-102
+## Code Quality Note
 
-This repository showcases my work as a member of Team ERcast 102 in the FIRST Tech Challenge (FTC) Romania. We designed, built, and programmed a competitive robot to complete both autonomous and driver-controlled challenges.  
+This repository contains archived high school competition code from FTC robotics.  
+The code reflects an older competition project and is kept mainly as evidence of early robotics, Java, and hardware programming experience.
+
+The main value of the project is:
+- tele-operated robot control
+- autonomous movement logic
+- motor/servo/sensor integration
+- competition experience
+- technical documentation and teamwork
